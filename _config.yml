@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   深圳市国创基业产业运营管理有限公司 温文豪 温旭豪 玩套路
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://gcjy.github.io'
+url: 'https://xxoo200826.github.io'
 
 author: your_full_name                  # change to your full name
 
@@ -46,7 +46,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: '/gcjy.github.io'
+baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
